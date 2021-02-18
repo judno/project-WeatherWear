@@ -18,7 +18,7 @@ The following third party API's are used to fetch the weather information and lo
 - zomato: https://developers.zomato.com/api
 
 ## Deployed Link
-Launch WeahterWear [Here](https://lionhatt.github.io/project-WeatherWear/)
+Launch WeahterWear [Here](https://judno.github.io/project-WeatherWear/)
 
 ## Screenshots
 
